@@ -3,7 +3,7 @@
 A list of beginner-friendly Python projects to build skills in **data analysis, web development, automation, and more**.
 
 ## 📝 Basic Python Projects
-1. **[Calculator App – A simple CLI-based calculator with basic arithmetic operations].(https://github.com/satishsalyal/Python-Python-Projects-with-Source-Code/blob/main/calculator_cli.ipynb).** 
+1. **[Calculator App – A simple CLI-based calculator with basic arithmetic operations](https://github.com/satishsalyal/Python-Python-Projects-with-Source-Code/blob/main/calculator_cli.ipynb).** 
 2. **To-Do List App** – A task manager to add, update, and remove tasks.  
 3. **Number Guessing Game** – A fun game where the user guesses a randomly generated number.  
 4. **Dice Rolling Simulator** – Simulates rolling a six-sided die with random outcomes.  
