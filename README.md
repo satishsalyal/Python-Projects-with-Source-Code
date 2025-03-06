@@ -8,7 +8,7 @@ A list of beginner-friendly Python projects to build skills in **data analysis, 
 3. **Number Guessing Game** – A fun game where the user guesses a randomly generated number.  
 4. **Dice Rolling Simulator** – Simulates rolling a six-sided die with random outcomes.  
 5. **Rock, Paper, Scissors Game** – A simple command-line game using Python’s `random` module.
-6. **[Global Electric Vehicle Market Trends & Forecasting](https://github.com/satishsalyal/Python-Python-Projects-with-Source-Code/blob/main/ev_market_analysis.ipynb)**
+5.1. **[Global Electric Vehicle Market Trends & Forecasting](https://github.com/satishsalyal/Python-Python-Projects-with-Source-Code/blob/main/ev_market_analysis.ipynb)**
 
 ## 📊 Data Analysis & Visualization Projects
 6. **Weather Data Analysis** – Fetch and analyze real-time weather data using an API.  
@@ -22,7 +22,8 @@ A list of beginner-friendly Python projects to build skills in **data analysis, 
 12. **News Aggregator** – Fetch the latest news from an API (e.g., NewsAPI) and display it.  
 13. **Real-time Cryptocurrency Price Tracker** – Use an API to track and display crypto prices.  
 14. **Amazon Price Tracker** – Monitor product prices and send email alerts.  
-15. **Wikipedia Summary Generator** – Fetch summaries using the Wikipedia API.  
+15. **Wikipedia Summary Generator** – Fetch summaries using the Wikipedia API.
+15.1. **[GUI Calculator](https://github.com/satishsalyal/Python-Python-Projects-with-Source-Code/blob/main/Tkinter_Calculator_Explanation.ipynb)
 
 ## 🖥 GUI-Based Projects (Tkinter, PyQt)
 16. **Weather App** – A simple GUI app to check real-time weather updates.  
