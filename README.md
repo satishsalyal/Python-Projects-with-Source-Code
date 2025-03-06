@@ -23,7 +23,7 @@ A list of beginner-friendly Python projects to build skills in **data analysis, 
 13. **Real-time Cryptocurrency Price Tracker** – Use an API to track and display crypto prices.  
 14. **Amazon Price Tracker** – Monitor product prices and send email alerts.  
 15. **Wikipedia Summary Generator** – Fetch summaries using the Wikipedia API.
-15.1. **[GUI Calculator](https://github.com/satishsalyal/Python-Python-Projects-with-Source-Code/blob/main/Tkinter_Calculator_Explanation.ipynb)
+- **[GUI Calculator](https://github.com/satishsalyal/Python-Python-Projects-with-Source-Code/blob/main/Tkinter_Calculator_Explanation.ipynb)**
 
 ## 🖥 GUI-Based Projects (Tkinter, PyQt)
 16. **Weather App** – A simple GUI app to check real-time weather updates.  
