@@ -1,6 +1,6 @@
-# Colorful Alarm Clock using Tkinter
+# GUI Alarm Clock using Tkinter
 
-This project is a colorful and attractive alarm clock built using Tkinter in Python. It features a live digital clock display, an alarm-setting functionality, and plays a sound when the alarm time is reached.
+This project  alarm clock built using Tkinter in Python. It features a live digital clock display, an alarm-setting functionality, and plays a sound when the alarm time is reached.
 
 ## Prerequisites
 - Install `pygame` for playing the alarm sound:
