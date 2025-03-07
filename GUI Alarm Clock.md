@@ -105,7 +105,7 @@ root.mainloop()
 3. Click "Set Alarm" to schedule the alarm.
 4. When the time matches, a sound will play, and a pop-up will appear.
 
-## Screenshot (Optional)
+## Screenshot 
 _Add a screenshot of the application interface here._
 
 ## License
