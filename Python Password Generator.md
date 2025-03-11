@@ -25,7 +25,6 @@ This program uses built-in Python modules:
 - `random` → Selects random characters.
 - `string` → Provides character sets like letters, digits, and symbols.
 
-Install Python if you haven't already: [Download Python](https://www.python.org/downloads/)
 
 ---
 
