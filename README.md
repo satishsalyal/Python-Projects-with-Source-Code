@@ -9,6 +9,7 @@ A list of beginner-friendly Python projects to build skills in **data analysis, 
 4. **Dice Rolling Simulator** – Simulates rolling a six-sided die with random outcomes.  
 5. **Rock, Paper, Scissors Game** – A simple command-line game using Python’s `random` module.
 - **[Global Electric Vehicle Market Trends & Forecasting](https://github.com/satishsalyal/Python-Python-Projects-with-Source-Code/blob/main/ev_market_analysis.ipynb)**
+- **[Python Password Generator](https://github.com/satishsalyal/Python-Projects-with-Source-Code/blob/main/Python%20Password%20Generator.md)**
 
 ## 📊 Data Analysis & Visualization Projects
 6. **Weather Data Analysis** – Fetch and analyze real-time weather data using an API.  
