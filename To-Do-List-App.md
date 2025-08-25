@@ -34,6 +34,7 @@ It allows users to **Add, Update, Delete, and Clear tasks** with a clean and use
  ┣ 📜 todo.py        # Main application script
  ┣ 📜 README.md      # Project documentation
  ┗ 📜 requirements.txt (optional)
+```
 # 💻 Code Overview
 
 ```python
@@ -68,4 +69,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = ToDoApp(root)
     root.mainloop()
+
 ```
